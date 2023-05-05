@@ -6,7 +6,11 @@ Class pw
     
    }
 
-
+ public void m2()
+   {
+      ///code2
+    
+   }
 
 
 }
